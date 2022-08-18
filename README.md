@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kanwarsidhu10
 - 👀 I’m interested in learning latest technologies everyday
 - 🌱 I’m currently learning Springboot micor-services and RestAPIs using restTamplate
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on building compilers and Linux OS as I have strong interset and exposer on C++ and Linux system programming or networking programming
 - 📫 How to reach me snehkanwar@live.com or snehkanwar10@icloud.com
 
 <!---
