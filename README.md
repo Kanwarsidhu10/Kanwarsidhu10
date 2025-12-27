@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Kanwarsidhu10
-- 👀 I’m interested in learning latest technologies everyday
-- 🌱 I’m currently learning Springboot micor-services and RestAPIs using restTamplate
-- 💞️ I’m looking to collaborate on building compilers and Linux OS as I have strong interset and exposer on C++ and Linux system programming or networking programming
-- 📫 How to reach me snehkanwar@live.com or snehkanwar10@icloud.com
+💫 About Me:
+Full Stack Developer with 4+ years of expertise in designing and building scalable web applications using REACT , NODE.JS , TYPESCRIPT and JAVA SPRING BOOT.
 
-<!---
-Kanwarsidhu10/Kanwarsidhu10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Looking to collaborate on building real-world projects like E-Commerce platforms, SaaS tools and AI-powered applications.
+
+Great Hands on knowledge of Rest APIs , mongoDB , Docker , Kubernetes , JWT and deployment GCP.
+
+Currently learning prompt engineering , AGENTIC AI and MULTI AGENTS and Quantum Computing.
+
+🌐 Socials:
+Instagram LinkedIn email
+
+💻 Tech Stack:
+React TypeScript JavaScript HTML5 NodeJS Apache Kafka Postgres Google Cloud MongoDB
+
+📊 GitHub Stats:
+
+
+
+
+
+
